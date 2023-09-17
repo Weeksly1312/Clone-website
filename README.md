@@ -8,6 +8,9 @@ Clone website - HTML CSS JS
 
 #TASKS :
 SOUFIANE => HEADER 
+
 OUSSAMA => UPCOMING
+
 MED SALE =>
+
 MED KENITRA =>
